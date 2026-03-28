@@ -16,6 +16,7 @@ public class Halloworld202557201004 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("halloworld202557201004");
+        System.out.println("fathony202557201004");
     }
     
 }
